@@ -1,31 +1,31 @@
-﻿<div align="center">
+<div align="center">
 
-# Hola, soy Carlos 👋
+# Hi, I'm Carlos
 
-### Consultor Full Stack · Especialista en Plataformas SaaS & Apps de eCommerce
+### Full Stack Consultant · SaaS Platforms & eCommerce Apps Specialist
 
-*Ayudo a startups y negocios a lanzar productos digitales que retienen usuarios y generan conversiones.*
+*I help startups and businesses launch digital products that retain users and drive conversions.*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-webcarlos--jet.vercel.app-2563EB?style=for-the-badge)](https://webcarlos-jet.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-webcarlos--jet.vercel.app-2563EB?style=for-the-badge)](https://webcarlos-jet.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Martínez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-martinez-lima-ba238a1a9/)
-[![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cm7887575@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cm7887575@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 ¿Qué hago?
+## What I Do
 
-No solo escribo código — construyo productos que **mueven métricas de negocio**:
+I don't just write code. I build products that **move business metrics**:
 
-- 📈 Optimizo el **onboarding de plataformas SaaS** para reducir la tasa de abandono
-- 🛒 Desarrollo **apps de eCommerce** que minimizan fricciones en el checkout
-- ⚙️ Diseño **arquitecturas backend escalables** que no requieren refactoring costoso al crecer
-- 🚀 Entrego con **CI/CD automatizado** — sin sorpresas en producción
+- Optimize **SaaS onboarding** to reduce churn
+- Build **eCommerce apps** that minimize checkout friction
+- Design **scalable backend architectures** that don't require costly refactoring as you grow
+- Ship with **automated CI/CD**, so there are no surprises in production
 
 ---
 
-## 🛠️ Stack Principal
+## Core Stack
 
 **Frontend**
 
@@ -44,7 +44,7 @@ No solo escribo código — construyo productos que **mueven métricas de negoci
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps & Herramientas**
+**DevOps & Tools**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
@@ -53,18 +53,18 @@ No solo escribo código — construyo productos que **mueven métricas de negoci
 
 ---
 
-## 🏆 Casos de Éxito
+## Success Stories
 
-| Proyecto | Qué resolvió | Stack | Demo |
+| Project | What it solved | Stack | Demo |
 |---|---|---|---|
-| **MediSaaS** | Digitalizó expedientes clínicos en papel para consultorios médicos con sincronización en tiempo real | React, Firebase | [Ver demo →](https://carlos2024r3223rw.github.io/MediSaaS/) |
-| **Gestión Documental DMS** | Sistema RBAC para control de documentos sensibles con auditoría completa | PHP, MySQL, Railway | [Ver demo →](https://gestion-documental-dms-production.up.railway.app/dashboard) |
-| **Aurelia Landing Page** | Landing de alta conversión para marca de lujo — 100 en Lighthouse | HTML5, CSS3, JS vanilla | [Ver demo →](https://carlos2024r3223rw.github.io/aurelia-landing-page/) |
-| **WeatherSphere Dashboard** | Dashboard meteorológico en tiempo real con geolocalización y 0 dependencias | JavaScript ES6+, REST APIs | [Ver demo →](https://carlos2024r3223rw.github.io/weathersphere-dashboard/) |
+| **MediSaaS** | Digitized paper-based clinical records for medical offices with real-time sync | React, Firebase | [View demo →](https://carlos2024r3223rw.github.io/MediSaaS/) |
+| **DMS Document Management** | RBAC system for sensitive document control with full audit trail | PHP, MySQL, Railway | [View demo →](https://gestion-documental-dms-production.up.railway.app/dashboard) |
+| **Aurelia Landing Page** | High-conversion landing page for a luxury brand, scoring 100 on Lighthouse | HTML5, CSS3, vanilla JS | [View demo →](https://carlos2024r3223rw.github.io/aurelia-landing-page/) |
+| **WeatherSphere Dashboard** | Real-time weather dashboard with geolocation and zero dependencies | JavaScript ES6+, REST APIs | [View demo →](https://carlos2024r3223rw.github.io/weathersphere-dashboard/) |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -75,14 +75,14 @@ No solo escribo código — construyo productos que **mueven métricas de negoci
 
 ---
 
-## 💬 ¿Tienes un proyecto en mente?
+## Have a Project in Mind?
 
-Estoy disponible para **proyectos freelance** enfocados en SaaS y eCommerce.
+I'm available for **freelance projects** focused on SaaS and eCommerce.
 
-📧 **[cm7887575@gmail.com](mailto:cm7887575@gmail.com)** · 🌐 **[webcarlos-jet.vercel.app](https://webcarlos-jet.vercel.app)**
+**[cm7887575@gmail.com](mailto:cm7887575@gmail.com)** · **[webcarlos-jet.vercel.app](https://webcarlos-jet.vercel.app)**
 
-> *"No compito por precio — construyo productos que generan ROI medible."*
+> *"I don't compete on price. I build products that deliver measurable ROI."*
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=carlos2024r3223rw&color=2563EB&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=carlos2024r3223rw&color=2563EB&style=flat-square&label=Profile+views" alt="Profile views" />
 </div>
