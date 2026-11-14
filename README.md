@@ -6,7 +6,7 @@
 
 *I help startups and businesses launch digital products that retain users and drive conversions.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-webcarlos--jet.vercel.app-2563EB?style=for-the-badge)](https://webcarlos-jet.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-webcarlos.dev-2563EB?style=for-the-badge)](https://www.webcarlos.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Martínez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-martinez-lima-ba238a1a9/)
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cm7887575@gmail.com)
 
@@ -21,7 +21,7 @@ I don't just write code. I build products that **move business metrics**:
 - Optimize **SaaS onboarding** to reduce churn
 - Build **eCommerce apps** that minimize checkout friction
 - Design **scalable backend architectures** that don't require costly refactoring as you grow
-- Ship with **automated CI/CD**, so there are no surprises in production
+- Ship with **automated E2E testing & CI/CD**, so there are no surprises in production
 
 ---
 
@@ -44,8 +44,9 @@ I don't just write code. I build products that **move business metrics**:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps & Tools**
+**QA, DevOps & Tools**
 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -55,10 +56,11 @@ I don't just write code. I build products that **move business metrics**:
 
 ## Success Stories
 
-| Project | What it solved | Stack | Demo |
+| Project | What it solved | Stack | Demo / Code |
 |---|---|---|---|
 | **MediSaaS** | Digitized paper-based clinical records for medical offices with real-time sync | React, Firebase | [View demo →](https://carlos2024r3223rw.github.io/MediSaaS/) |
 | **DMS Document Management** | RBAC system for sensitive document control with full audit trail | PHP, MySQL, Railway | [View demo →](https://gestion-documental-dms-production.up.railway.app/dashboard) |
+| **QA Playwright Suite** | Automated E2E testing framework (POM) validating auth, checkout, and form flows | JavaScript, Playwright | [View repo →](https://github.com/carlos2024r3223rw/qa-playwright-suite) |
 | **Aurelia Landing Page** | High-conversion landing page for a luxury brand, scoring 100 on Lighthouse | HTML5, CSS3, vanilla JS | [View demo →](https://carlos2024r3223rw.github.io/aurelia-landing-page/) |
 | **WeatherSphere Dashboard** | Real-time weather dashboard with geolocation and zero dependencies | JavaScript ES6+, REST APIs | [View demo →](https://carlos2024r3223rw.github.io/weathersphere-dashboard/) |
 
@@ -68,8 +70,7 @@ I don't just write code. I build products that **move business metrics**:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos2024r3223rw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos2024r3223rw&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=carlos2024r3223rw&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -79,7 +80,7 @@ I don't just write code. I build products that **move business metrics**:
 
 I'm available for **freelance projects** focused on SaaS and eCommerce.
 
-**[cm7887575@gmail.com](mailto:cm7887575@gmail.com)** · **[webcarlos-jet.vercel.app](https://webcarlos-jet.vercel.app)**
+**[cm7887575@gmail.com](mailto:cm7887575@gmail.com)** · **[webcarlos.dev](https://www.webcarlos.dev)**
 
 > *"I don't compete on price. I build products that deliver measurable ROI."*
 
